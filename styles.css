@@ -1,0 +1,34 @@
+body {
+	width: 100%;
+	height: 100%;
+	background-color: #fbd1d3;
+	display: flex;
+	justify-content: center;
+	margin-top: 200px;
+}
+
+.container {
+	padding: 10rem;
+	display: flex;
+	/* justify-content: space-between; */
+}
+
+.name {
+	font-family: "Courier New", Courier, monospace;
+	margin-right: 2rem;
+	width: 100%;
+}
+
+.person_image {
+	width: 30rem;
+	border-radius: 50px;
+}
+
+.about_viruses_container {
+	border-radius: 30px;
+	padding: 30px;
+	height: auto;
+	min-height: 200px;
+	width: 40rem;
+	background-color: white;
+}
